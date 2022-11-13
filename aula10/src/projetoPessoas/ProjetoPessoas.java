@@ -30,6 +30,7 @@ public class ProjetoPessoas {
 		p4.setSexo("F");
 		p4.setSetor("Estoque");
 		p4.setTrabalhando(true);
+		
 
 		System.out.println(p1.toString());
 		System.out.println(p2.toString());
